@@ -5,6 +5,7 @@ import 'package:contact_diary_6pm_app/views/screens/detail_page.dart';
 import 'package:contact_diary_6pm_app/views/screens/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'dart:math';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
